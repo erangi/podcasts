@@ -1,5 +1,3 @@
-## Recommended podcasts
-
 I'm an avid podcast listener. Listening to podcasts is, to me, both a way to make long walks and commutes more interesting and a way to keep learning new things.
 Granted, podcasts are a very ineffective teaching format, and they are by no means comparable to proper study. Still, with ~2 hours of listening on an average day at x1.3 play speed,
 I find listening to podcasts useful and interesting.
@@ -16,12 +14,46 @@ I do read books regularly, in paper format. Visiting the library is a treat, but
 
 Below is my list, divided into categories. I'll be happy to get recommendations for other podcasts covering these topics.
 
+### Databases and data systems
+* [The Data Stack Show](https://datastackshow.com) - Data engineering, tools, practices.
+* [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast) - Ditto
+* [Materialized View Podcast](https://materializedview.io/podcast) - Ditto. The podcast is new so not a lot of content, but I love the newsletter.
+* [ביצת הדאטה](https://podcasters.spotify.com/pod/show/the-data-swamp) - Ditto. Interviewers are very disruptive but funny (Hebrew)
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Seems like a central podcast in the field. A bit dry, hardly deep-dives into tech, but lots of content.
+* [The GeekNarrator](https://www.geeknarrator.com/podcast) - Interviews about various database-related topics, pretty deep dives
+* [DataNation](https://host.alexmercedpodcast.com/series/datanation/) - Various database and data management tools and concepts
+* [Monday Morning Data Chat](https://podcasters.spotify.com/pod/show/ternary-data) - Interviews about various data and database related topics
+* [Drill to Detail](https://www.rittmananalytics.com/drilltodetail/) - Interviews about BI, analytics, and big data
+* [Hubert's Podcast](https://hubertdulay.substack.com/podcast) - Interviews about various data and database related topics
+
+### Generic but data-heavy
+* [Yet Another Infra Deep Dive](https://podcasters.spotify.com/pod/show/yet-another-infra) - Deep dives into infra topics. I wish the "yet another" part were true - not enough such deep dives...
+* [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related hence of interest (to me).
+* [Orchestrate all the Things](https://linkeddataorchestration.com/orchestrate-all-the-things/podcast/) - Interviews about data-related systems.
+* [Software Huddle](http://softwarehuddle.com/) - Interviews about various topics, many data related.
+
+### High performance, Low-level, hardware
+* [Signals and Threads](https://signals-threads.simplecast.com) - Deep discussions about technical issues that Jane Street (HFT firm) deals with. Very interesting.
+* [Big Compute](https://www.bigcompute.org/podcast/) - Narrated coverage of supercomputing topics. Not too deep but well created and pretty interesting.
+* [Utilizing Tech](https://www.utilizingtech.com) - Each season deep dives into a certain topic. I was mostly interested in the CXL season.
+* [The TechArena](https://rss.com/podcasts/techarena) - Interviews covering cloud infra, systems, and some hardware.
+* [Hard Reset](https://www.hardreset.co.il) - Educational interviews covering different aspects of hardware development (Hebrew)
+* [@HPCpodcast](https://orionx.net/category/hpc-podcast/) - Discussions and interviews covering different aspects of the HPC world.
+* [SemiWiki](https://semiwiki.com/series/semiwiki-com/) - Interviews with guests about the semiconductor industry. Pretty short and high-level.
+* [Not Your Father's Data Center](https://www.compassdatacenters.com/resources/not-your-fathers-data-center/) - Interviews about datacenter-related topics. Not my thing in general, but some are interesting.
+
 ### C++
 * [CppCast](https://cppcast.com) - The central C++ community podcast.
 * [C++ Club](https://redcircle.com/shows/cppclub) - Discussions and commentary about latest events and additions to C++.
 * [Algorithms + Data Structures = Programs](https://adspthepodcast.com/) - Chaos with sprinkles of information, I like interviews with interesting guests the most.
 * [Two's Complement](https://www.twoscomplement.org) - Two hosts talk about various topics, interest depends on topic.
 * [TLB Hit](https://tlbh.it) - Deep technical discussions, unfortunately seems to be EOL.
+
+### Research
+* [Disseminate](https://shows.acast.com/disseminate) - Interviews with researchers about specific research projects they've done. Most episodes are about systems research, which is (of course) the most interesting.
+* [ACM ByteCast](https://acmbytecast.podbean.com) - Interviews with researchers, mostly about their careers.
+* [Computer Architecture Podcast](https://comparchpodcast.podbean.com) - Interviews with researchers in the computer architecture field.
+* [Microsoft Research Podcast](http://blubrry.com/microsoftresearch/) - Interviews with MS researchers. Was much more interesting before it became AI-only.
 
 ### Music
 * [Hit Parade](https://slate.com/podcasts/hit-parade) - A show discussing the history of popular music and the stories behind chart-topping hits. Fun stuff.
@@ -32,12 +64,6 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 * [שיר אחד One Song](https://www.kan.org.il/content/kan/podcasts/p-8131/) - Similar to Song Exploder, covering Israeli songs and artists (Hebrew)
 * [כאן 88 הסכתים](https://www.kan.org.il/content/kan/podcasts/kan88/) - Series of deep-dive episodes about major artists (Hebrew)
 * [ספיישל 88](https://www.kan.org.il/content/kan/podcasts/p-8199/) - Each episode discusses and plays the music of an album or artist (Hebrew)
-
-### Research
-* [Disseminate](https://shows.acast.com/disseminate) - Interviews with researchers about specific research projects they've done. Most episodes are about systems research, which is (of course) the most interesting.
-* [ACM ByteCast](https://acmbytecast.podbean.com) - Interviews with researchers, mostly about their careers.
-* [Computer Architecture Podcast](https://comparchpodcast.podbean.com) - Interviews with researchers in the computer architecture field.
-* [Microsoft Research Podcast](http://blubrry.com/microsoftresearch/) - Interviews with MS researchers. Was much more interesting before it became AI-only.
 
 ### Stories and long interviews
 * [CoRecursive: Coding Stories](http://corecursive.com) - Stories about software developers that made a difference. Very well told.
@@ -56,34 +82,6 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 * [עושים תוכנה Osim Tochna](https://www.osimhistoria.com/software) - Ditto (Hebrew)
 * [מפתחים מחוץ לקופסה](https://outside-the-box.buzzsprout.com) - Ditto (Hebrew)
 * [Open Source Startup Podcast](https://oss-startup-podcast.launchnotes.io) - Interviews with founders of companies developing open-source software, many are data-related.
-
-### High performance, Low-level, hardware
-* [Signals and Threads](https://signals-threads.simplecast.com) - Deep discussions about technical issues that Jane Street (HFT firm) deals with. Very interesting.
-* [Big Compute](https://www.bigcompute.org/podcast/) - Narrated coverage of supercomputing topics. Not too deep but well created and pretty interesting.
-* [Utilizing Tech](https://www.utilizingtech.com) - Each season deep dives into a certain topic. I was mostly interested in the CXL season.
-* [The TechArena](https://rss.com/podcasts/techarena) - Interviews covering cloud infra, systems, and some hardware.
-* [Hard Reset](https://www.hardreset.co.il) - Educational interviews covering different aspects of hardware development (Hebrew)
-* [@HPCpodcast](https://orionx.net/category/hpc-podcast/) - Discussions and interviews covering different aspects of the HPC world.
-* [SemiWiki](https://semiwiki.com/series/semiwiki-com/) - Interviews with guests about the semiconductor industry. Pretty short and high-level.
-* [Not Your Father's Data Center](https://www.compassdatacenters.com/resources/not-your-fathers-data-center/) - Interviews about datacenter-related topics. Not my thing in general, but some are interesting.
-
-### Generic but data-heavy
-* [Yet Another Infra Deep Dive](https://podcasters.spotify.com/pod/show/yet-another-infra) - Deep dives into infra topics. I wish the "yet another" part were true - not enough such deep dives...
-* [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related hence of interest (to me).
-* [Orchestrate all the Things](https://linkeddataorchestration.com/orchestrate-all-the-things/podcast/) - Interviews about data-related systems.
-* [Software Huddle](http://softwarehuddle.com/) - Interviews about various topics, many data related.
-
-### Databases and data systems
-* [The Data Stack Show](https://datastackshow.com) - Data engineering, tools, practices.
-* [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast) - Ditto
-* [Materialized View Podcast](https://materializedview.io/podcast) - Ditto. The podcast is new so not a lot of content, but I love the newsletter.
-* [ביצת הדאטה](https://podcasters.spotify.com/pod/show/the-data-swamp) - Ditto. Interviewers are very disruptive but funny (Hebrew)
-* [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Seems like a central podcast in the field. A bit dry, hardly deep-dives into tech, but lots of content.
-* [The GeekNarrator](https://www.geeknarrator.com/podcast) - Interviews about various database-related topics, pretty deep dives
-* [DataNation](https://host.alexmercedpodcast.com/series/datanation/) - Various database and data management tools and concepts
-* [Monday Morning Data Chat](https://podcasters.spotify.com/pod/show/ternary-data) - Interviews about various data and database related topics
-* [Drill to Detail](https://www.rittmananalytics.com/drilltodetail/) - Interviews about BI, analytics, and big data
-* [Hubert's Podcast](https://hubertdulay.substack.com/podcast) - Interviews about various data and database related topics
 
 ### Storage
 * [Storage Developer Conference](https://www.sniadeveloper.org/podcasts) - Recorded talks from SNIA's conference. Mostly high quality and very technical.
