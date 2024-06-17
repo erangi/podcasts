@@ -28,9 +28,9 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 
 ### Generic but data-heavy
 * [Yet Another Infra Deep Dive](https://podcasters.spotify.com/pod/show/yet-another-infra) - Deep dives into infra topics. I wish the "yet another" part were true - not enough such deep dives...
+* [Software Huddle](http://softwarehuddle.com/) - Interviews about various topics, many data related, goes into the details.
 * [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related hence of interest (to me).
 * [Orchestrate all the Things](https://linkeddataorchestration.com/orchestrate-all-the-things/podcast/) - Interviews about data-related systems.
-* [Software Huddle](http://softwarehuddle.com/) - Interviews about various topics, many data related.
 
 ### High performance, Low-level, hardware
 * [Signals and Threads](https://signals-threads.simplecast.com) - Deep discussions about technical issues that Jane Street (HFT firm) deals with. Very interesting.
