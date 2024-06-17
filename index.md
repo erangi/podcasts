@@ -12,7 +12,7 @@ and my "guilty pleasure" is music.
 I tried to listen to conference talks (via youtube, sound only) or academic papers (text to speech) for deeper technical content. Didn't work for me.
 I do read books regularly, in paper format. Visiting the library is a treat, but it takes me a few months to complete a book. I'm ok with that and am not interested in audiobooks.
 
-Below is my list, divided into categories. I'll be happy to get recommendations for other podcasts covering these topics.
+Below is my list, divided into categories. I'll be happy to get recommendations for other podcasts covering these topics via [my linkedin post](https://www.linkedin.com/posts/erangi_podcast-recommendations-activity-7208523669243887616-wKMN) or [the discussions page](https://github.com/erangi/podcasts/discussions).
 
 ### Databases and data systems
 * [The Data Stack Show](https://datastackshow.com) - Data engineering, tools, practices.
