@@ -95,6 +95,7 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 
 ### Other recommendations
 * I listen to podcasts using the [Podcast Addict](https://podcastaddict.com) app (also paying to support the app developer). Didn't try many others, but I'm happy with it.
+* If you want to get an RSS feed of a certain YouTube playlist, you can use [rsshub.app](https://rsshub.app/youtube/playlist/YOURPLAYLISTIDHERE). Unfortunately, I wasn't able to play the youtube videos in podcastaddict. If you find a way to do it, please let me know.
 * I don't subscribe to newsletters in general, but there are two I highly recommend -
   * [Easyperf](https://easyperf.net) by Denis Bakhvalov, which covers performance topics.
   * [Materialized Views](https://materializedview.io/) by Chris Riccomini, which covers software infra and data systems.
