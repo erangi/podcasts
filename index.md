@@ -93,6 +93,11 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 * [Screaming in the Cloud](https://screaminginthecloud.com) - Diverse topics with some relation to the cloud. Sometimes data-related.
 * [PurePerformance](https://www.spreaker.com/show/pureperformance) - Interviews about performance-related topics
 
+### Staging area
+The following are on my list but I didn't listen to them yet so don't have an opinion:
+* [Microarch club](https://microarch.club/) - "The art, science, and history of processor design"
+* [Hardware-Conscious Data Processing](https://podcasts.apple.com/gb/podcast/hardware-conscious-data-processing-st-2023-tele-task/id1686065618) - Recording of an academic course. Looks super interesting, not sure about the podcast listening experience.
+
 ### Other recommendations
 * I listen to podcasts using the [Podcast Addict](https://podcastaddict.com) app (also paying to support the app developer). Didn't try many others, but I'm happy with it.
 * If you want to get an RSS feed of a certain YouTube playlist, you can use [rsshub.app](https://rsshub.app/youtube/playlist/YOURPLAYLISTIDHERE). Unfortunately, I wasn't able to play the youtube videos in podcastaddict. If you find a way to do it, please let me know.
