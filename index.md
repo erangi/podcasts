@@ -24,12 +24,12 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 * [DataNation](https://host.alexmercedpodcast.com/series/datanation/) - Various database and data management tools and concepts
 * [Monday Morning Data Chat](https://podcasters.spotify.com/pod/show/ternary-data) - Interviews about various data and database related topics
 * [Drill to Detail](https://www.rittmananalytics.com/drilltodetail/) - Interviews about BI, analytics, and big data
-* [Hubert's Podcast](https://hubertdulay.substack.com/podcast) - Interviews about various data and database related topics
+* [Hubert's Podcast](https://hubertdulay.substack.com/podcast) - Interviews about various data and database related topics. Sound quality is poor, which can be annoying.
 
 ### Generic but data-heavy
 * [Yet Another Infra Deep Dive](https://podcasters.spotify.com/pod/show/yet-another-infra) - Deep dives into infra topics. I wish the "yet another" part were true - not enough such deep dives...
+* [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related and go deep, hence of interest (to me). 
 * [Software Huddle](http://softwarehuddle.com/) - Interviews about various topics, many data related, goes into the details.
-* [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related hence of interest (to me).
 * [Orchestrate all the Things](https://linkeddataorchestration.com/orchestrate-all-the-things/podcast/) - Interviews about data-related systems.
 
 ### High performance, Low-level, hardware
@@ -97,6 +97,7 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 The following are on my list but I didn't listen to them yet so don't have an opinion:
 * [Microarch club](https://microarch.club/) - "The art, science, and history of processor design"
 * [Hardware-Conscious Data Processing](https://podcasts.apple.com/gb/podcast/hardware-conscious-data-processing-st-2023-tele-task/id1686065618) - Recording of an academic course. Looks super interesting, not sure about the podcast listening experience.
+* [Software misadventures](https://softwaremisadventures.com/) - Talks with engineers. Many episodes are data-related.
 
 ### Other recommendations
 * I listen to podcasts using the [Podcast Addict](https://podcastaddict.com) app (also paying to support the app developer). Didn't try many others, but I'm happy with it.
