@@ -98,6 +98,7 @@ The following are on my list but I didn't listen to them yet so don't have an op
 * [Microarch club](https://microarch.club/) - "The art, science, and history of processor design"
 * [Hardware-Conscious Data Processing](https://podcasts.apple.com/gb/podcast/hardware-conscious-data-processing-st-2023-tele-task/id1686065618) - Recording of an academic course. Looks super interesting, not sure about the podcast listening experience.
 * [Software misadventures](https://softwaremisadventures.com/) - Talks with engineers. Many episodes are data-related.
+* [Tech on the rocks](https://techontherocks.show/) - First and only episode so far looks interesting, hope more will follow.
 
 ### Other recommendations
 * I listen to podcasts using the [Podcast Addict](https://podcastaddict.com) app (also paying to support the app developer). Didn't try many others, but I'm happy with it.
