@@ -24,11 +24,12 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 * [DataNation](https://host.alexmercedpodcast.com/series/datanation/) - Various database and data management tools and concepts
 * [Monday Morning Data Chat](https://podcasters.spotify.com/pod/show/ternary-data) - Interviews about various data and database related topics
 * [Drill to Detail](https://www.rittmananalytics.com/drilltodetail/) - Interviews about BI, analytics, and big data
-* [Hubert's Podcast](https://hubertdulay.substack.com/podcast) - Interviews about various data and database related topics. Sound quality is poor, which can be annoying.
+* [Hardware-Conscious Data Processing](https://www.tele-task.de/series/1503/) - Recording of an in-person academic course. The video format is better, but it's available as a podcast too. I only listed to it, and not all lectures were suitable for audio-only format. However, the lecturer is very good and the audio quality is excellent.
+
 
 ### Generic but data-heavy
 * [Yet Another Infra Deep Dive](https://podcasters.spotify.com/pod/show/yet-another-infra) - Deep dives into infra topics. I wish the "yet another" part were true - not enough such deep dives...
-* [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related and go deep, hence of interest (to me). 
+* [Developer Voices](https://pod.link/developer-voices) - Interviews with devs about their projects. Many are data-related and go deep, hence of interest (to me). Kris Jenkins, the host, is one of my favorits.
 * [Software Huddle](http://softwarehuddle.com/) - Interviews about various topics, many data related, goes into the details.
 * [Orchestrate all the Things](https://linkeddataorchestration.com/orchestrate-all-the-things/podcast/) - Interviews about data-related systems.
 
@@ -67,7 +68,8 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 
 ### Stories and long interviews
 * [CoRecursive: Coding Stories](http://corecursive.com) - Stories about software developers that made a difference. Very well told.
-* [Lex Fridman Podcast](https://lexfridman.com/) - Interviews with top-notch guests. Most episodes are now way too long IMO (I don't even consider episodes over 2.5 hours), but plenty to choose from.
+* [Software misadventures](https://softwaremisadventures.com/) - Talks with engineers about their careers. Very interesting guests, the hosts are great.
+* [Lex Fridman Podcast](https://lexfridman.com/) - Interviews with top-notch guests. Most episodes are now way too long IMO (I don't even consider episodes over 2.5 hours), but plenty to choose from. I stay away from political episodes, guests are too manipulative and Fridman is too passive.
 * [Darknet Diaries](https://darknetdiaries.com/) - Stories about hackers, cyber crimes, etc. Very well told.
 * [Behind The Tech](http://sites.libsyn.com/121695/site) - MS CTO interviews researchers, devs, and leaders that had an impactful career.
 
@@ -96,8 +98,6 @@ Below is my list, divided into categories. I'll be happy to get recommendations 
 ### Staging area
 The following are on my list but I didn't listen to them yet so don't have an opinion:
 * [Microarch club](https://microarch.club/) - "The art, science, and history of processor design"
-* [Hardware-Conscious Data Processing](https://podcasts.apple.com/gb/podcast/hardware-conscious-data-processing-st-2023-tele-task/id1686065618) - Recording of an academic course. Looks super interesting, not sure about the podcast listening experience.
-* [Software misadventures](https://softwaremisadventures.com/) - Talks with engineers. Many episodes are data-related.
 * [Tech on the rocks](https://techontherocks.show/) - First and only episode so far looks interesting, hope more will follow.
 
 ### Other recommendations
